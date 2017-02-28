@@ -1,4 +1,4 @@
-#! /c/Users/lixh1/Anaconda3/jess
+# !/usr/bin/python3
 # -*- coding: UTF-8 -*-
 import os
 import time
